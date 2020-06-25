@@ -1,0 +1,22 @@
+06471013360001V
+Your Payment Reference Number is 1170534 . Please note it down for the further reference.
+
+https://opensource.com/article/18/1/future-devops
+https://www.simplilearn.com/devops-interview-questions-answers-article
+
+https://www.quora.com/What-are-the-skills-needed-to-get-a-job-in-AWS-DevOps
+
+https://www.edureka.co/aws-certified-devops-training?index_name=prod_search_results_courses&objId=782&objPos=2&qId=27b652a09c6a7cc2ed1dd8f1bfa879e2
+
+DevOps = Soft. Manage. Process + IT Management + IT Operation
+
+1) DevOps Tools : Jenkins ,  Docker , Puppet and more...(such as Docker and Kubernetes)
+2) Scripting : Pathon , Linux Shell Script , JavaScript
+3) Cloud : AWS
+4) Testing
+5) Security
+
+--> increase with the adoption of microservices and multi-cloud architectures.
+
+
+
